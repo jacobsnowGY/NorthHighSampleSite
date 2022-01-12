@@ -1,4 +1,4 @@
-# Learn Web Developmenmt
+# Learn Web Development
 
 ## HTML
 https://www.codecademy.com/learn/learn-html
