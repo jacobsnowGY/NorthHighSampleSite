@@ -1,13 +1,14 @@
-#Learn Web Developmenmt
-HTML
+# Learn Web Developmenmt
+
+## HTML
 https://www.codecademy.com/learn/learn-html
-JavaScript
+## JavaScript
 https://www.codecademy.com/learn/introduction-to-javascript
-React 
+## React 
 https://www.codecademy.com/learn/react-101
 
-#Static Web Apps
+# Static Web Apps
 https://azure.microsoft.com/en-us/services/app-service/static/#overview
 
-#Azure Student 
+# Azure Student 
 https://azure.microsoft.com/en-us/free/students/
